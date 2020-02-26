@@ -1,0 +1,47 @@
+hi, i am trying to use the Scanner tool to scan these symbols : *, /, -, +
+
+my code:
+
+this is the part that is used for integers:
+
+import java.util.Scanner;
+class CalculatorInt {
+public static void main(String args[]) {
+int FirstNumber;
+double Sign;
+int SecondNumber;
+Scanner myScanner = new Scanner(System.in);
+FirstNumber = myScanner.nextInt();
+Sign = myScanner.next {
+if (Sign = *) {
+SecondNumber = myScanner.nextInt();
+System.out.println("calculating");
+System.out.println("calculating");
+}else{
+Sign = myScanner.next {
+if (Sign = /) {
+SecondNumber = myScanner.nextInt();
+System.out.println("calculating");
+System.out.println("calculating");
+}else{
+Sign = myScanner.next {
+if (Sign = -) {
+SecondNumber = myScanner.nextInt();
+System.out.println("calculating");
+System.out.println("calculating");
+}else{
+Sign = myScanner.next {
+if (Sign = +) {
+SecondNumber = myScanner.nextInt();
+System.out.println("calculating");
+System.out.println("calculating");
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
